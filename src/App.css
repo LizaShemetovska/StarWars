@@ -18,6 +18,17 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.card .card-header {
+  background-color:black;
+}
+
+.card .card-content {
+  background-color:#133849;
+}
+p,.card-header p{
+  color: #7da0b1;
+}
+
 
 .App-link {
   color: #61dafb;
